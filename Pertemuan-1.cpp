@@ -15,7 +15,7 @@ int main(){
     string kelas = "1C - Informatika";
     string cita = "Punya start-up unicorn";
     string motivasi = "Sama kaya cita-cita";
-    long long int npm = 2310631170051;
+    string npm = 2310631170051;
 
     //Pemanggilan function looping pertama
     Garis();
