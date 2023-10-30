@@ -41,7 +41,7 @@ int main(){
         cout << "Anda mendapatkan nilai D \n\n";
     }
     //Program else-if yang akan mengeluarkan output "Anda mendapatkan nilai E" jika nilai kurang dari 60.
-    else if (nilai <= 59 && nilai >=0){
+    else if (nilai <= 59 && nilai >= 0){
         cout << "Anda mendapatkan nilai E \n\n";
     }
     //Program else untuk menangkap input yang tidak sesuai dari semua kondisi di atas
